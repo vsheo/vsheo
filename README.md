@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently studying at de Hogeschool van Amsterdam<br>🌱 I’m currently learning Sveltekit<br>👨‍💻 All of my projects are available here https://playful-pie-a8e068.netlify.app/<br>📄 Check out my latest Blog about color palette in CSS https://vsheo.github.io/i-love-web/CSS-color-generator/
+🔭 I’m currently studying at de Hogeschool van Amsterdam  
+🌱 I’m currently learning Sveltekit  
+👨‍💻 All of my projects are available [here](https://playful-pie-a8e068.netlify.app/)  
+📄 Check out [my latest Blog](https://vsheo.github.io/i-love-web/CSS-color-generator/) about color palette in CSS
 
 
 ## 🌐 Socials:
