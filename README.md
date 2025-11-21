@@ -30,13 +30,24 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=vsheo&theme=transparent&hide_border=true)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=vsheo&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+  ![](https://github-readme-stats.vercel.app/api?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://nirzak-streak-stats.vercel.app/?user=vsheo&theme=transparent&hide_border=true)<br/>
+  ![](https://github-contributor-stats.vercel.app/api?username=vsheo&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 ---
 [![](https://visitcount.itsvg.in/api?id=vsheo&icon=1&color=1)](https://visitcount.itsvg.in)
+
+---
+<br>
+
+<div align=center>
+  <img width=420 src="https://github-readme-stats.vercel.app/api?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width=420 src="https://nirzak-streak-stats.vercel.app/?user=vsheo&theme=transparent&hide_border=true" />
+  <img width=420 src="https://github-contributor-stats.vercel.app/api?username=vsheo&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
+  <img width=0 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
+</div>
+
+<hr>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
