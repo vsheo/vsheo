@@ -13,7 +13,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@vrsh)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,18 +30,15 @@
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
   ![](https://github-readme-stats.vercel.app/api?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
-  ![](https://nirzak-streak-stats.vercel.app/?user=vsheo&theme=transparent&hide_border=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=vsheo&theme=transparent&hide_border=true)
   ![](https://github-contributor-stats.vercel.app/api?username=vsheo&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
----
 
 
-[![](https://visitcount.itsvg.in/api?id=vsheo&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
-<hr>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
