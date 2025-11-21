@@ -4,6 +4,7 @@
 👨‍💻 All of my projects are available [here](https://playful-pie-a8e068.netlify.app/)  
 📄 Check out [my latest Blog](https://vsheo.github.io/i-love-web/CSS-color-generator/) about color palette in CSS
 
+![](https://komarev.com/ghpvc/?username=vsheo&style=for-the-badge&abbreviated=true)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/vsheo.bsky.social)
@@ -35,21 +36,16 @@
   ![](https://github-contributor-stats.vercel.app/api?username=vsheo&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut)
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=vsheo&icon=1&color=1)](https://visitcount.itsvg.in)
 
----
-<br>
-
-<div align=center>
-  <img width=420 src="https://github-readme-stats.vercel.app/api?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width=420 src="https://nirzak-streak-stats.vercel.app/?user=vsheo&theme=transparent&hide_border=true" />
-  <img width=420 src="https://github-contributor-stats.vercel.app/api?username=vsheo&limit=5&theme=transparent&hide_border=true&combine_all_yearly_contributions=true" />
-  <img width=0 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsheo&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
-</div>
 
 <hr>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Md badges: https://ileriayo.github.io/markdown-badges/#markdown-badges -->
+<!-- add for portfolioL https://github.com/KennethEnevoldsen/pimp-my-github -->
+<!-- -->
 <!-- -->
