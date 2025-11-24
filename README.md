@@ -6,6 +6,8 @@ Check out [my latest blog](https://vsheo.github.io/i-love-web/CSS-color-generato
 
 ## 🌱 What am I currently working on
 I am currently working in a team on a project using SvelteKit. Check out the repository [here](https://github.com/fdnd-agency/designingforrecognition/tree/dev).  
+*The project is currently on the dev branch, the main branch is still empty*  
+
 In my free time, I work on my [portfolio site](https://playful-pie-a8e068.netlify.app/) and my [blog site](https://vsheo.github.io/i-love-web/), where I also write articles.
 
 
