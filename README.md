@@ -1,6 +1,9 @@
 # 💫 Who am I
 Viresh Rishi Sheoratan, 24, frontend developer student with a passion for CSS and creative web development.  
-Check out [my latest blog](https://vsheo.github.io/i-love-web/CSS-color-generator/) about CSS color functions and relative colors.
+Check out some of my blogs:  
+- [CSS color functions & relative colors](https://vsheo.github.io/i-love-web/CSS-color-generator/)
+- [Sveltekit remote functions](https://github.com/vsheo/i-love-web/wiki/Sveltekit-remote-functions)
+- [Setting up GitHub projectboard](https://github.com/vsheo/i-love-web/wiki/Project-Board-Workflow)
 
 ![](https://komarev.com/ghpvc/?username=vsheo&style=for-the-badge&abbreviated=true)
 
