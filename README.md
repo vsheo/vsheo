@@ -43,7 +43,7 @@ In my free time, I work on my [portfolio site](https://playful-pie-a8e068.netlif
 
 
 
-
+<a href="https://app.daily.dev/rx128"><img src="https://api.daily.dev/devcards/v2/eM6MS2gt3Y3tWn6YX14eJ.png?r=m51&type=default" width="356" alt="Rishi's Dev Card"/></a>
 
 
 <!--
